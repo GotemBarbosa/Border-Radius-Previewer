@@ -6,6 +6,7 @@ Border Radius Previewer is a React app that allows users to preview css border-r
 ## The project:
 
 
+https://user-images.githubusercontent.com/50121055/154864192-2be53ef8-8aea-43f2-a8d2-ad10713b1e80.mp4
 
 ---
 The border-radius property can have multiple values changed. Preview how the shape looks while changing these values.
